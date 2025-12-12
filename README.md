@@ -1,4 +1,3 @@
-# 3
-git stash
-git checkout<kct_clg>
-git stash apply
+git checkout master
+git rebase moon
+git rebase--continue 
